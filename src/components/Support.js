@@ -5,7 +5,7 @@ const Support = () => {
   return (
     <section name='Support' className='w-full mt-24'>
       <div className='w-full h-[700px] bg-slate-900/90 absolute'>
-        <img src={supportImg} alt="Support Image" className='object-cover w-full h-full mix-blend-overlay' />
+        <img src={supportImg} alt="Support" className='object-cover w-full h-full mix-blend-overlay' />
 
       </div>
 
@@ -48,6 +48,7 @@ const Support = () => {
           </div>
         </div>
       </div>
+
 
 
 
